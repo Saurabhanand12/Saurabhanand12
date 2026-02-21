@@ -1,88 +1,59 @@
-# Hi there, I'm Saurabh Anand! 👋
+# 👋 Hello, I'm Saurabh Anand!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Designer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
+I am a developer focused on building scalable web applications and exploring the intersection of design and code. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
-I am a passionate developer who loves building innovative solutions and exploring new technologies. Whether it's crafting seamless user interfaces or architecting robust backend systems, I strive for excellence in every line of code.
-
-- 🔭 I’m currently working on enhancing my Full Stack skills.
-- 🌱 I’m currently learning advanced Deep Learning with **TensorFlow**.
-- 💬 Ask me about **JavaScript, Node.js, or UI Design**.
-- 📫 How to reach me: Check my social links below!
+- 🔭 **Current Focus:** Building robust backend architectures with **Node.js** and **Express**.
+- 🌱 **Learning:** Deepening my knowledge in **TensorFlow** and Machine Learning.
+- ⚡ **Fun Fact:** I love crafting pixel-perfect UIs using **Tailwind CSS** and **Figma**.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Stack
 
-<details open>
-  <summary><b>Frontend & Design</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-</details>
-
-<details open>
-  <summary><b>Backend & Databases</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-</details>
-
-<details>
-  <summary><b>Languages & Others</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" />
-</details>
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools/Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabhanand12&show_icons=true&theme=tokyonight" alt="Saurabh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhanand12&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurabhanand12&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Saurabh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhanand12&theme=radical&border_radius=10" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhanand12&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhanand12&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="400" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saurabhanand12&theme=tokyonight" alt="Saurabh's Trophies" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Saurabhanand12&theme=radical&column=7&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/Saurabhanand12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+<a href="https://github.com/Saurabhanand12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Saurabhanand12" height="30" width="40" /></a>
+<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Saurabhanand12&icon=0&color=0" alt="Visit Count" />
+  <br />
+  <img src="https://visitcount.itsvg.in/api?id=Saurabhanand12&label=Profile%20Views&color=0&style=flat" alt="Visitor Count" />
 </p>
