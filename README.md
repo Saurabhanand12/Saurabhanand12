@@ -25,7 +25,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/saurabh-anand-1810912ba"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/sauarbhand/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+<a href="https://leetcode.com/u/sauarbhanand/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Saurabhanand12&label=Profile%20Views&color=7C3AED&style=flat-square" />
 
 </div>
@@ -220,8 +220,8 @@ A **MERN-based laptop recommendation and price prediction platform**, combining 
 
 <div align="center">
 
-<a href="https://leetcode.com/u/sauarbhand/">
-  <img src="https://leetcard.jacoblin.cool/sauarbhand?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="85%" />
+<a href="https://leetcode.com/u/sauarbhanand/">
+  <img src="https://leetcard.jacoblin.cool/sauarbhanand?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="85%" />
 </a>
 
 <br/><br/>
@@ -232,7 +232,7 @@ A **MERN-based laptop recommendation and price prediction platform**, combining 
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/sauarbhand/">
+<a href="https://leetcode.com/u/sauarbhanand/">
   <img src="https://img.shields.io/badge/Visit%20My%20LeetCode%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
 
@@ -289,8 +289,8 @@ A **MERN-based laptop recommendation and price prediction platform**, combining 
 <div align="center">
 
 <a href="https://github.com/Saurabhanand12"><img src="https://img.shields.io/badge/GitHub-Saurabhanand12-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/saurabh-anand-1810912ba"><img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/sauarbhand/"><img src="https://img.shields.io/badge/LeetCode-sauarbhand-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saurabh-anand-1810912ba"><img src="https://img.shields.io/badge/LinkedIn-saurabh--anand--1810912ba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/sauarbhanand/"><img src="https://img.shields.io/badge/LeetCode-sauarbhanand-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 <br/><br/>
 
